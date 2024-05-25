@@ -1,0 +1,73 @@
+{
+  "imps": [
+    {
+      "author": "~Kadir",
+      "sentences": ["Az insan, çok huzur.", "Kido'mu al."]
+    },
+    {
+      "author": "~Şeref Küpeli",
+      "sentences": [
+        "Kargadan başka kuş bilmem.",
+        "Matematik bir yaşam biçimidir.",
+        "Şeref Küpeli olmak zordur, matematikle uğraşırsın; Şeref Küpeli olmamak daha da zordur, Şeref Küpeli ile uğraşırsın.",
+        "Şeref siz misiniz?"
+      ]
+    },
+    {
+      "author": "~Mesut Deveci",
+      "sentences": ["Madem geldin dünyaya, çalış kimyaya."]
+    },
+    {
+      "author": "~Yasin Bayram",
+      "sentences": [
+        "Gönüller soğusun.",
+        "Gönüller yıkansın.",
+        "Gönüller ısınsın.",
+        "Gönüller büyüsün.",
+        "Gönüller ılısın.",
+        "Gönüller zenginleşsin."
+      ]
+    },
+    {
+      "author": "~Sir Mareşal Okan ",
+      "sentences": [
+        "Elalemin aletini görmeyen kendininkini piyade tüfeği sanırmış."
+      ]
+    },
+    {
+      "author": "~Profesör",
+      "sentences": [
+        "Cıvıtma.",
+        "Ameliyat güzeldir.",
+        "Şeref Küpeli'den başka hoca bilmem.",
+        "Matematiği anlamak hayatı anlamaktır.",
+        "Bir gün cıvıtırsam matematiği seçin."
+      ]
+    },
+    {
+      "author": "~ElHüseyni",
+      "sentences": [
+        "Nice ilimler öğrendim, hala hiçbir şey bilmiyorum.",
+        "İlim dediğin şey muazzamdır ancak doğru kullanabilene.",
+        "Bildiğim tek şey hiçbir şey bilmediğimdir.",
+        "Şeref'in bana öğrettiği en önemli şey ilmi öğrenme şeklidir."
+      ]
+    },
+    {
+      "author": "~Menes",
+      "sentences": ["Fıttırma.", "Dozutma", "Covutma.", "Cızutma.", "Fotturma."]
+    },
+    {
+      "author": "~Mustafa Duran",
+      "sentences": ["Hoş geldin 23 Nisan"]
+    },
+    {
+      "author": "~Talha Üstad",
+      "sentences": ["Sokakta açlıktan ölüceksin!"]
+    },
+    {
+      "author": "~Üstad",
+      "sentences": ["Enayi", "1080 Ti", "2. el bilgisayar alıcam"]
+    }
+  ]
+}
